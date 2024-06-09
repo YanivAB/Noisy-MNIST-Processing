@@ -22,7 +22,6 @@ Preprocessing steps include:
 
 Spectral Density Analysis: Analyzing the spectral density of noise in the images.
 Data Cleaning: Applying filters to reduce noise.
-PCA: Using Principal Component Analysis (PCA) to reduce dimensionality while retaining 90% of the variance.
 Averaging: Averaging images of the same class to reduce noise.
 # Model
 A Convolutional Neural Network (CNN) is used for classification. The model is provided in kaggle repository: https://www.kaggle.com/code/heeraldedhia/mnist-classifier-first-deep-learning-project
