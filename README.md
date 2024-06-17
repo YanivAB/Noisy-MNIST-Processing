@@ -9,6 +9,7 @@ The project was maded for Technion Signal Processing course (035039=) by Dr. Igo
 
 ## Credits
 - Developed by Yaniv Abramov, Michael Ben Ezra and Idan Dror.
+- Thanks to Heeral Dedhia for publishing her model and code, which were used in this project.
 
 # Dataset
 The dataset consists of two main files:
